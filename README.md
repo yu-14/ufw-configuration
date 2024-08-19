@@ -41,10 +41,3 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-### Additional Tips
-- **Formatting**: Use Markdown syntax for headings, lists, and code blocks to make the README visually appealing and easy to read.
-- **Screenshots**: Consider adding screenshots of your configuration or output for better clarity.
-- **Links**: If you reference any external resources or documentation, provide links for easy access.
-- **Contribution Guidelines**: If you expect others to contribute to your project, consider adding a section on how they can do so.
-
-Feel free to adjust the content to better reflect your project's specifics and your personal touch!
